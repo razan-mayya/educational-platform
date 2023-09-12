@@ -1,0 +1,41 @@
+ @media (max-width: 540px) {
+
+     .bb {
+         margin-top: 8px;
+     }
+
+ }
+
+ .sh {
+     box-shadow: none;
+     height: 50%;
+     box-shadow: 200px -35px lightblue;
+ }
+
+ .carousel-indicators button {
+     width: 10px !important;
+     height: 10px !important;
+     border-radius: 50%;
+     background-color: #95c7e3 !important;
+
+ }
+
+ .xx {
+     background-color: rgb(248, 249, 250) !important;
+     height: 100vh;
+ }
+
+ .con {
+     background-image: url(./img/Sprinkle.svg);
+ }
+
+
+ .bg {
+     background-image: url(./img/Rect\ Light.svg);
+ }
+
+ @media (max-width: 770px) {
+     .hero {
+         font-size: small;
+     }
+ }
